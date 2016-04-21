@@ -31,32 +31,31 @@
     <DimensionLayout dim="0">
       <Group type="103" groupAlignment="0" attributes="0">
           <Group type="102" attributes="0">
+              <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="boton1" max="32767" attributes="0"/>
+                  <Component id="boton2" max="32767" attributes="0"/>
+                  <Component id="boton3" max="32767" attributes="0"/>
+                  <Component id="boton4" max="32767" attributes="0"/>
+                  <Component id="boton5" max="32767" attributes="0"/>
+                  <Component id="boton6" max="32767" attributes="0"/>
+                  <Component id="boton7" min="-2" pref="57" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
-                  <Group type="102" alignment="1" attributes="0">
-                      <EmptySpace max="32767" attributes="0"/>
+                  <Group type="102" attributes="0">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="etiqueta2" alignment="1" min="-2" pref="228" max="-2" attributes="0"/>
-                          <Component id="etiqueta1" alignment="1" min="-2" pref="228" max="-2" attributes="0"/>
+                          <Component id="etiqueta1" min="-2" pref="179" max="-2" attributes="0"/>
+                          <Component id="etiqueta2" alignment="0" min="-2" pref="179" max="-2" attributes="0"/>
                       </Group>
-                      <EmptySpace min="-2" pref="75" max="-2" attributes="0"/>
+                      <EmptySpace min="124" max="32767" attributes="0"/>
                       <Group type="103" groupAlignment="0" max="-2" attributes="0">
                           <Component id="Xenerar" max="32767" attributes="0"/>
                           <Component id="Validar" alignment="0" max="32767" attributes="0"/>
                           <Component id="Desmarcar" alignment="0" pref="125" max="32767" attributes="0"/>
                       </Group>
                   </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                          <Component id="boton1" max="32767" attributes="0"/>
-                          <Component id="boton2" max="32767" attributes="0"/>
-                          <Component id="boton3" max="32767" attributes="0"/>
-                          <Component id="boton4" max="32767" attributes="0"/>
-                          <Component id="boton5" max="32767" attributes="0"/>
-                          <Component id="boton6" max="32767" attributes="0"/>
-                          <Component id="boton7" min="-2" pref="57" max="-2" attributes="0"/>
-                      </Group>
-                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
                       <Group type="103" groupAlignment="0" max="-2" attributes="0">
                           <Component id="boton8" max="32767" attributes="0"/>
                           <Component id="boton9" max="32767" attributes="0"/>
@@ -118,7 +117,7 @@
                           </Group>
                           <Component id="boton49" alignment="1" min="-2" pref="56" max="-2" attributes="0"/>
                       </Group>
-                      <EmptySpace min="0" pref="21" max="32767" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
                   </Group>
               </Group>
               <EmptySpace max="-2" attributes="0"/>
@@ -134,19 +133,19 @@
       <Group type="103" groupAlignment="0" attributes="0">
           <Group type="102" alignment="1" attributes="0">
               <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Xenerar" alignment="3" min="-2" pref="34" max="-2" attributes="0"/>
+                  <Component id="etiqueta1" alignment="3" min="-2" pref="43" max="-2" attributes="0"/>
+              </Group>
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" attributes="0">
-                      <Group type="103" groupAlignment="3" attributes="0">
-                          <Component id="Xenerar" alignment="3" min="-2" pref="34" max="-2" attributes="0"/>
-                          <Component id="etiqueta1" alignment="3" min="-2" pref="43" max="-2" attributes="0"/>
-                      </Group>
                       <EmptySpace max="-2" attributes="0"/>
                       <Component id="Validar" min="-2" pref="36" max="-2" attributes="0"/>
                       <EmptySpace type="separate" max="-2" attributes="0"/>
                       <Component id="Desmarcar" min="-2" pref="37" max="-2" attributes="0"/>
                   </Group>
-                  <Group type="102" attributes="0">
-                      <EmptySpace min="-2" pref="72" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
                       <Component id="etiqueta2" min="-2" pref="46" max="-2" attributes="0"/>
                   </Group>
               </Group>
